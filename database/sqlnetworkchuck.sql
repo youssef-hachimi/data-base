@@ -32,7 +32,7 @@ CREATE TABLE Avengers(
 	Age INT,
 	Alias VARCHAR(255)
 );
-INSERT INTO Avengers VALUES()
+INSERT INTO Avengers VALUES
 		(1,"thor","odinson","asgard",1500,"strongest avenger"),
         (2,"clint","barton","earth",35,"hawkeye"),
         (3,"tony","stark","earth",52,"iron man"),
