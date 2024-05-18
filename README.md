@@ -1,3 +1,3 @@
 # data-base
 learn data base 
-MySql
+Using RDBMS MySql 
